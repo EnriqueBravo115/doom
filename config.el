@@ -4,7 +4,7 @@
 
 (setq display-line-numbers-type 'nil)
 
-;;(add-to-list 'default-frame-alist '(alpha . 90))
+(add-to-list 'default-frame-alist '(alpha . 90))
 
 (setq evil-normal-state-cursor '(box "#F25C54")
       evil-insert-state-cursor '(box "medium spring green")
