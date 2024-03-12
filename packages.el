@@ -1,3 +1,6 @@
 (package! olivetti)
-(package! dashboard)
 (package! org-modern)
+(package! kaolin-themes)
+(unpin! org-roam)
+(package! org-roam-ui)
+(package! org-super-agenda)
